@@ -1,0 +1,45 @@
+body {
+    background-color: papayawhip;
+}
+.all {
+    text-align: center;
+    align-items: center;
+}
+.image {
+    float: left;
+    margin-left: 25%;
+    padding: 2%;
+    margin-top: 1%;
+}
+.size {
+    width: 200px; 
+    height: 200px;
+}
+.identificacao {
+    float: right;
+    padding: 2%;
+    text-align: left;
+    margin-right: 25%;
+}
+.header {
+    border: solid palevioletred;
+    width: 80%;
+    margin-left: 8%;
+}
+.menu {
+    border: solid palevioletred;
+    background-color: palevioletred;
+    width: 80%;
+    margin-left: 8%;
+    height: 50px;
+    justify-content: space-between;
+}
+.endereco {
+    float: right;
+    padding: 2%;
+    text-align: left;
+    margin-right: 25%;
+}
+.conteudo {
+    
+}
